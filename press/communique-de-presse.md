@@ -1,5 +1,5 @@
 
-<span class="blue">**Flooz challenge les banques Françaises.**</span>
+#Flooz challenge les banques Françaises.
  
 ___
 *Enfin une application paiement a utiliser! La start-up Flooz annonce le lancement de son app développée par sa jeune équipe et qui vise à déstabiliser les applications de paiement mobile actuelles. Flooz rend les échangent interactifs grâce a son fil d’actualité et a création de pseudo.  L’app a pour ambition de ‘permettre à toute une génération d’entrer dans l’ère du paiement mobile’.*
