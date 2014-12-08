@@ -1,9 +1,7 @@
-
 #Flooz challenge les banques Françaises.
  
-___
-*Enfin une application paiement a utiliser! La start-up Flooz annonce le lancement de son app développée par sa jeune équipe et qui vise à déstabiliser les applications de paiement mobile actuelles. Flooz rend les échangent interactifs grâce a son fil d’actualité et a création de pseudo.  L’app a pour ambition de ‘permettre à toute une génération d’entrer dans l’ère du paiement mobile’.*
-____
+
+> *Enfin une application paiement a utiliser! La start-up Flooz annonce le lancement de son app développée par sa jeune équipe et qui vise à déstabiliser les applications de paiement mobile actuelles. Flooz rend les échangent interactifs grâce a son fil d’actualité et a création de pseudo.  L’app a pour ambition de ‘permettre à toute une génération d’entrer dans l’ère du paiement mobile’.*
 
 C’est la start-up Aixoise du nom de Flooz qui annonce aujourd’hui la sortie de sa nouvelle application mobile de paiement entre amis. Elle est désormais disponible sur l’app store et sa sortie Android est prévue pour le début de l’année 2015. A sa tête, deux fondateurs Yannick Borgomano et Louis Grellet anciens camarades de classe et désormais patrons de la start-up. 
 Après exactement 12 mois de travail acharné, la jeune équipe de Flooz lance son application prête a révolutionner notre façon de faire des paiements entre amis. 
@@ -21,11 +19,8 @@ Nous assistons donc au lacement du produit qui va va permettre à toute une gén
 
 Flooz propose donc une alternative aux applications bancaires traditionnelles en faisant de l’utilisateur sa priorité. 
 
+Pour plus d’informations vous pouvez contacter:  
 
-	Pour plus d’informations vous pouvez contacter: 
-	Marine PASTOR
-	marine@flooz.me 
-	0420880016
-
-
-
+> Marine PASTOR  
+> marine@flooz.me   
+> 0420880016
