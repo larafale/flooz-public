@@ -1,14 +1,88 @@
-#L'équipe:
+<style>
+.teamer { text-align: center; }
+.teamer img { border-radius: 4px; margin: 10px; }
+.teamer .info { text-align: justify; margin-bottom: 50px; }
+.teamer .name { text-align: center; margin: 20px 0; color: #39A8E2; }
+</style>
 
-Yannick **'@kopp'** BORGOMANO : Co-founder, 30 ans (il est sûr d'en avoir 15). Pour lui la vie n'est qu'un jeu. Competiteur acharné (limite pathologique) et entrepreuneur dans l'âme. Il adore les kangos. Il deteste les petites poeles. 
+<div class="row">
 
-Louis **'@larafale'** GRELLET : Co-founder, 28 ans. La tête dans les étoiles et les mains dans le cambouis, pilote d’avion à ses heures perdues. Il est l’architecte et l’initiateur du projet Flooz. Il adore le carré d'agneau. Il deteste rien, il s'en tape.
+  <div class="col-md-6 col-xs-12">
+    <div class="teamer">
+      <img width="160px" src="/shared/img/team/team-yannick.jpg"\>
+      <div class="info">
+      <div class="name">
+        Yannick BORGOMANO **@kopp**
+      </div>
+      Co-founder, 30 ans (il est sûr d'en avoir 15). Pour lui la vie n'est qu'un jeu. Competiteur acharné (limite pathologique) et entrepreneur dans l'âme. Il adore les kangos. Il deteste les petites poeles. 
+      </div>
+    </div>
+  </div>
 
-Emmanuel **'@bobby'** MEUNIER : Developpeur back end. Pragmatique, c'est lui qui nous dit "là vous deconnez non ?" lorsqu'on a une idée farfelue. Les pieds sur terre, il ramène toujours le café et le PQ au bureau quand on est en galère. Il adore les chattes, il déteste manger à l'extérieur (si il fait froid).
+  <div class="col-md-6 col-xs-12">
+    <div class="teamer">
+      <img width="160px" src="/shared/img/team/team-louis.jpg"\>
+      <div class="info">
+      <div class="name">
+        Louis GRELLET **@larafale**
+      </div>
+      Co-founder, 28 ans. La tête dans les étoiles et les mains dans le cambouis, pilote d’avion à ses heures perdues. Il est l’architecte et l’initiateur du projet Flooz. Il adore le carré d'agneau. Il deteste rien, il s'en tape.
+      </div>
+    </div>
+  </div>
 
-Olivier **'@lolinpiko'** MOUREN : Lead developpeur mobile, 20 ans. Le mec qui voit toujours le verre à moitié plein (même quand y'a pas d'eau du tout..). Il aime RRRrrrr. Il deteste perdre à League of Legends. 
+</div>
+<div class="row">
 
-Marine **'@sun'** PASTOR : Community manager, 22 ans (qui croit faire du growth hacking). Elle est incroyablement tétue, elle nous soule tous mais on avait des quotas. Elle aime avoir raison. Elle deteste le bruit quand on mache. 
+  <div class="col-md-6 col-xs-12">
+    <div class="teamer">
+      <img width="160px" src="/shared/img/team/team-bob.jpg"\>
+      <div class="info">
+      <div class="name">
+        Emmanuel MEUNIER **@bobby**
+      </div>
+      Developpeur back end. Pragmatique, c'est lui qui nous dit "là vous deconnez non ?" lorsqu'on a une idée farfelue. Les pieds sur terre, il ramène toujours le café et le PQ au bureau quand on est en galère. Il adore les chattes, il déteste manger à l'extérieur (si il fait froid).
+      </div>
+    </div>
+  </div>
 
-Emy **'@eden'** DU VALON DE BEAUMONT : C'est son vrai nom! La mascotte de Flooz, présente depuis le début. Elle monte la garde au bureau et nous permet de travailler en toute sécurité. Elle adore quand on la regarde déchirer les cartons. Elle déteste les pigeons morts.
+  <div class="col-md-6 col-xs-12">
+    <div class="teamer">
+      <img width="160px" src="/shared/img/team/team-olivier.jpg"\>
+      <div class="info">
+      <div class="name">
+        Olivier MOUREN **@lolinpiko**
+      </div>
+      Lead developpeur mobile, 20 ans. Le mec qui voit toujours le verre à moitié plein (même quand y'a pas d'eau du tout..). Il aime RRRrrrr. Il deteste perdre à League of Legends.
+      </div>
+    </div>
+  </div>
 
+</div>
+<div class="row">
+
+  <div class="col-md-6 col-xs-12">
+    <div class="teamer">
+      <img width="160px" src="/shared/img/team/team-marine.jpg"\>
+      <div class="info">
+      <div class="name">
+        Marine PASTOR **@sun**
+      </div>
+      Community manager, 22 ans (qui croit faire du growth hacking). Elle est incroyablement tétue, elle nous soule tous mais on avait des quotas. Elle aime avoir raison. Elle deteste le bruit quand on mache. 
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-6 col-xs-12">
+    <div class="teamer">
+      <img width="160px" src="/shared/img/team/team-eden.jpg"\>
+      <div class="info">
+      <div class="name">
+        Emy DU VALON DE BEAUMONT **@eden**
+      </div>
+      C'est son vrai nom! La mascotte de Flooz, présente depuis le début. Elle monte la garde au bureau et nous permet de travailler en toute sécurité. Elle adore quand on la regarde déchirer les cartons. Elle déteste les pigeons morts.
+      </div>
+    </div>
+  </div>
+
+</div>
