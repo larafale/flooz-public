@@ -14,7 +14,7 @@ La cerise sur le gâteau: tous les utilisateurs disposent d’un pseudo afin de 
 
 Néanmoins, rien n’aurait été possible sans l’exceptionnelle levée de fonds de 200 000€ auprès du groupe HEVEA (allopneus.com), qui a su faire confiance aux deux fondateurs très tôt dans l’aventure. Le deuxième partenaire déterminant pour Flooz n’est autre que Rentabiliweb, un établissement de paiement, qui leur apporte fiabilité et sécurité pour les paiements.  
 
-Nous assistons donc au lacement du produit qui va va permettre à toute une génération d’entrer dans l’ère du paiement mobile. Le but est ici d’élever les Français au même niveau que leurs voisins Européens et Américains qui utilisent déjà couramment ce genre d’app. Flooz propose donc également une alternative aux applications bancaires traditionnelles en faisant de l’utilisateur sa priorité.   
+Nous assistons donc au lacement du produit qui va permettre à toute une génération d’entrer dans l’ère du paiement mobile. Le but est ici d’élever les Français au même niveau que leurs voisins Européens et Américains qui utilisent déjà couramment ce genre d’app. Flooz propose donc également une alternative aux applications bancaires traditionnelles en faisant de l’utilisateur sa priorité.   
 
 Pour plus d’informations vous pouvez contacter:  
 
