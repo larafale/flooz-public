@@ -9,7 +9,7 @@
 
   <div class="col-md-6 col-xs-12">
     <div class="teamer">
-      <img width="160px" src="/shared/img/team/team-yannick.jpg"\>
+      <img width="160px" src="/shared/img/male.png"\>
       <div class="info">
       <div class="name">
         Yannick BORGOMANO **@kopp**
@@ -21,12 +21,12 @@
 
   <div class="col-md-6 col-xs-12">
     <div class="teamer">
-      <img width="160px" src="/shared/img/team/team-louis.jpg"\>
+      <img width="160px" src="/shared/img/male.png"\>
       <div class="info">
       <div class="name">
         Louis GRELLET **@larafale**
       </div>
-      Co-founder, 28 ans. La tête dans les étoiles et les mains dans le cambouis, pilote d’avion à ses heures perdues. Il est l’architecte et l’initiateur du projet Flooz. Il adore le carré d'agneau. Il deteste rien, il s'en tape.
+      Co-founder, 28 ans. Initiateur du projet Flooz. Dev passionné, il code jour et nuit. Pilote d’avion à ses heures perdues, il adore les atterissages sans secousses et les diabolos citron.
       </div>
     </div>
   </div>
@@ -36,7 +36,7 @@
 
   <div class="col-md-6 col-xs-12">
     <div class="teamer">
-      <img width="160px" src="/shared/img/team/team-bob.jpg"\>
+      <img width="160px" src="/shared/img/male.png"\>
       <div class="info">
       <div class="name">
         Emmanuel MEUNIER **@bobby**
@@ -48,7 +48,7 @@
 
   <div class="col-md-6 col-xs-12">
     <div class="teamer">
-      <img width="160px" src="/shared/img/team/team-olivier.jpg"\>
+      <img width="160px" src="/shared/img/male.png"\>
       <div class="info">
       <div class="name">
         Olivier MOUREN **@lolinpiko**
@@ -63,7 +63,7 @@
 
   <div class="col-md-6 col-xs-12">
     <div class="teamer">
-      <img width="160px" src="/shared/img/team/team-marine.jpg"\>
+      <img width="160px" src="/shared/img/female.png"\>
       <div class="info">
       <div class="name">
         Marine PASTOR **@sun**
@@ -75,7 +75,7 @@
 
   <div class="col-md-6 col-xs-12">
     <div class="teamer">
-      <img width="160px" src="/shared/img/team/team-eden.jpg"\>
+      <img width="160px" src="/shared/img/female.png"\>
       <div class="info">
       <div class="name">
         Emy DU VALON DE BEAUMONT **@eden**
