@@ -7,9 +7,13 @@
 
 <div class="row">
 
+  <div class="col-md-12" style="margin-bottom: 100px;">
+    <img class="img-responsive" style="margin: 0 auto;" width="600px" src="/shared/img/team/team1.jpg"\>
+  </div>
+
   <div class="col-md-6 col-xs-12">
     <div class="teamer">
-      <img width="160px" src="/shared/img/male.png"\>
+      <img width="160px" src="/shared/img/team/yannick.jpg"\>
       <div class="info">
       <div class="name">
         Yannick BORGOMANO **@kopp**
@@ -21,7 +25,7 @@
 
   <div class="col-md-6 col-xs-12">
     <div class="teamer">
-      <img width="160px" src="/shared/img/male.png"\>
+      <img width="160px" src="/shared/img/team/louis.jpg"\>
       <div class="info">
       <div class="name">
         Louis GRELLET **@larafale**
@@ -36,7 +40,7 @@
 
   <div class="col-md-6 col-xs-12">
     <div class="teamer">
-      <img width="160px" src="/shared/img/male.png"\>
+      <img width="160px" src="/shared/img/team/bob.jpg"\>
       <div class="info">
       <div class="name">
         Emmanuel MEUNIER **@bobby**
@@ -48,7 +52,7 @@
 
   <div class="col-md-6 col-xs-12">
     <div class="teamer">
-      <img width="160px" src="/shared/img/male.png"\>
+      <img width="160px" src="/shared/img/team/olivier.jpg"\>
       <div class="info">
       <div class="name">
         Olivier MOUREN **@lolinpiko**
@@ -63,7 +67,7 @@
 
   <div class="col-md-6 col-xs-12">
     <div class="teamer">
-      <img width="160px" src="/shared/img/female.png"\>
+      <img width="160px" src="/shared/img/team/marine.jpg"\>
       <div class="info">
       <div class="name">
         Marine PASTOR **@sun**
@@ -75,7 +79,7 @@
 
   <div class="col-md-6 col-xs-12">
     <div class="teamer">
-      <img width="160px" src="/shared/img/female.png"\>
+      <img width="160px" src="/shared/img/team/eden.jpg"\>
       <div class="info">
       <div class="name">
         Emy DU VALON DE BEAUMONT **@eden**
