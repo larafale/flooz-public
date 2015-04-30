@@ -1,20 +1,28 @@
-#Flooz challenge les banques Françaises.
- 
+Communiqué de presse du 30/05/2015.
 
-> *Enfin une application de paiement à utiliser! La start-up Flooz annonce le lancement de son app développée par sa jeune équipe et qui vise à déstabiliser les applications de paiement mobile actuelles. Flooz rend les échanges interactifs grâce à sa forte dimension sociale.  L’app a pour ambition de ‘permettre à toute une génération d’entrer dans l’ère du paiement mobile’.*  
+#Flooz, la startup qui challenge les banques françaises
 
-C’est la start-up Aixoise du nom de Flooz qui annonce aujourd’hui la sortie de sa nouvelle application mobile de paiement entre amis. Elle est désormais disponible sur l’app store et sa sortie Android est prévue pour le début de l’année 2015. A sa tête, deux fondateurs Yannick Borgomano et Louis Grellet anciens camarades de classe et désormais patrons de la start-up. 
-Après exactement 12 mois de travail acharné, la jeune équipe de Flooz lance son application prête à révolutionner notre façon de faire des paiements entre amis. 
-C’est une application simple qui fonctionne avec des technologies novatrices, dotée d’une ergonomie et d’un design pensés pour séduire et étonner les utilisateurs. 
-Malgré tout, la start-up se lance dans un marché très concurrentiel et se frotte a des adversaires de taille comme les banques françaises, qui ont toutes le désir de voir leur application mobile décoller. On peut donc se demander comment font-ils pour rivaliser?   
+La startup Flooz annonce la sortie officielle de son application de paiement mobile nouvelle génération.  
+A la tête la startup aixoise, Yannick Borgomano et Louis Grellet, anciens dirigeants du pôle Internet d’Allopneus (leader français de la vente de pneus sur Internet). Après plus d’un an et demi de travail acharné, la jeune équipe de Flooz lance son application, prête à révolutionner notre façon de faire des paiements entre amis.  
 
-Mais la start-up est persuadée d’avoir ce que les autres n’ont pas, une dimension sociale. Il est indéniable que nous sommes de plus en plus à utiliser les réseaux sociaux quotidiennement et personne n’a jusqu’à présent aussi bien réussi à mêler ce concept à celui du paiement.   
-En effet, Flooz n’a pas été créé uniquement pour échanger de l’argent mais aussi pour partager chaque expérience relative à ce paiement. Pouvoir suivre les paiements de ses amis, c’est ça la grande force de Flooz.
-La cerise sur le gâteau: tous les utilisateurs disposent d’un pseudo afin de faciliter les transactions. Donc un Flooz c’est: un montant, un pseudo, une description et le choix d’y ajouter une photo. C’est beaucoup plus qu’un simple utilitaire, l’app transforme la corvée du paiement en une expérience amusante.  
 
-Néanmoins, rien n’aurait été possible sans l’exceptionnelle levée de fonds de 200 000€ auprès du groupe HEVEA (allopneus.com), qui a su faire confiance aux deux fondateurs très tôt dans l’aventure. Le deuxième partenaire déterminant pour Flooz n’est autre que Rentabiliweb, un établissement de paiement, qui leur apporte fiabilité et sécurité pour les paiements.  
+**Remboursez vos amis et faites-vous rembourser facilement :**
 
-Nous assistons donc au lacement du produit qui va permettre à toute une génération d’entrer dans l’ère du paiement mobile. Le but est ici d’élever les Français au même niveau que leurs voisins Européens et Américains qui utilisent déjà couramment ce genre d’app. Flooz propose donc également une alternative aux applications bancaires traditionnelles en faisant de l’utilisateur sa priorité.   
+
+L’application, gratuite, disponible sur iOS et Android se fonde sur des technologies novatrices (API développée en NodeJS etc.). Pour l’usager cela traduit par une ergonomie optimisée et donc une fluidité et une
+simplicité d’utilisation : un paiement se fait en 5 clics et 15 secondes, ouverture de l’app’ comprise. Il
+rentre une seule et unique fois ses coordonnées bancaires, à la première utilisation, et « Floozer » (payer) ou « se faire floozer » (se faire rembourser) devient alors un jeu d’enfant. Pour assurer la sécurité des transactions, Flooz s’appuie sur Rentabiliweb, l’établissement de paiement agréé PCI-DSS Level 1, soit le plus haut niveau en matière de sécurisation des transactions.  
+  
+  
+￼￼￼**Le premier réseau social de paiement :**
+
+￼Sur ce marché très concurrentiel, Flooz se frotte à des adversaires de taille avec les banques traditionnelles. En 10 ans, celles- ci n’ont cependant pas su convaincre et beaucoup de concepts « novateurs » ont connu un échec retentissant. Pour Yannick Borgomano, l’un des ingrédients qui manque à toutes ces applications de paiement mobile, est l’intégration d’une dimension sociale:
+« Le nombre de paiement entre particuliers varie de 20 à 25 par an. Pour augmenter ce ratio on pouvait soit augmenter le besoin, soit rendre l’acte plus attractif. Nous avons fait ce second choix en nous fondant sur un simple constat : la génération smartphone est aussi la génération réseaux-sociaux. »  
+Au-delà de la fluidité d’utilisation qui rend les paiements entre amis plus faciles, l’application a donc été créée pour que chaque paiement devienne une expérience qu’on a envie de partager. Ainsi, chaque utilisateur dispose d’un pseudo et de son propre fil d’actualité pour pouvoir « suivre » les paiements de ses amis et chaque paiement appelle une description qui peut être illustrée par une photo.  
+Pour la première fois, on est au-delà de la simple application utilitaire : la corvée du paiement devient une expérience simple et
+amusante racontant à chaque fois une petite histoire. Ce positionnement marque l’entrée de toute une génération dans l’ère du paiement mobile.
+Lors des 3 derniers mois, l’application a été l’objet d’un premier test en bêta qui a permis non seulement de construire le produit mais également de développer l’application grâce à ses
+« early adopters ». Aujourd’hui, avant même d’être ouverte au public, Flooz compte déjà 1400 utilisateurs. C’est en s’appuyant sur sa communauté de fans et d’ambassadeurs, que la start-up ira chercher une croissance exponentielle. 
 
 Pour plus d’informations vous pouvez contacter:  
 
