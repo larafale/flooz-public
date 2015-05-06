@@ -22,7 +22,7 @@ Au-delà de la fluidité d’utilisation qui rend les paiements entre amis plu
 Pour la première fois, on est au-delà de la simple application utilitaire : la corvée du paiement devient une expérience simple et
 amusante racontant à chaque fois une petite histoire. Ce positionnement marque l’entrée de toute une génération dans l’ère du paiement mobile.
 Lors des 3 derniers mois, l’application a été l’objet d’un premier test en bêta qui a permis non seulement de construire le produit mais également de développer l’application grâce à ses
-« early adopters ». Aujourd’hui, avant même d’être ouverte au public, Flooz compte déjà 1400 utilisateurs. C’est en s’appuyant sur sa communauté de fans et d’ambassadeurs, que la start-up ira chercher une croissance exponentielle. 
+« early adopters ». Aujourd’hui, avant même d’être ouverte au public, Flooz compte déjà 3000 utilisateurs. C’est en s’appuyant sur sa communauté de fans et d’ambassadeurs, que la start-up ira chercher une croissance exponentielle. 
 
 Pour plus d’informations vous pouvez contacter:  
 
