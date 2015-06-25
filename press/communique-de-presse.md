@@ -26,6 +26,6 @@ Lors des 3 derniers mois, l’application a été l’objet d’un premier tes
 
 Pour plus d’informations vous pouvez contacter:  
 
-> Marine PASTOR  
-> marine@flooz.me   
-> 0420880016
+> Marie Caroline Haddad - Agemcy
+> mc@flooz.me   
+> 06.82.82.74.88
