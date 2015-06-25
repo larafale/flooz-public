@@ -67,18 +67,6 @@
 
   <div class="col-md-6 col-xs-12">
     <div class="teamer">
-      <img width="160px" src="/shared/img/team/marine.jpg"\>
-      <div class="info">
-      <div class="name">
-        Marine PASTOR **@sun**
-      </div>
-      Community manager, 22 ans (qui croit faire du growth hacking). Elle est incroyablement tétue, elle nous soule tous mais on avait des quotas. Elle aime avoir raison. Elle deteste le bruit quand on mache. 
-      </div>
-    </div>
-  </div>
-
-  <div class="col-md-6 col-xs-12">
-    <div class="teamer">
       <img width="160px" src="/shared/img/team/eden.jpg"\>
       <div class="info">
       <div class="name">
